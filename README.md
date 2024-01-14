@@ -2,8 +2,8 @@
 
 ## 8086 assembly
 
-Abstract:
-	In this experiment we’ve been asked to use the lab kit to implement basic I/O in the MML8086K3 kit using our previous knowledge from microprocessor course. We found that we could use our coding knowledge in assembly “8086 and 8088” practically.
+###Abstract:
+	<p>In this experiment we’ve been asked to use the lab kit to implement basic I/O in the MML8086K3 kit using our previous knowledge from microprocessor course. We found that we could use our coding knowledge in assembly “8086 and 8088” practically.</P>
 
 Introduction and Theory:
 	In the kit we mentioned we have 8 switches (k1-k8) and 8 LED’s (L1-L8). All we need to do is to read the state of the switches from 0 to 8 and display it on the LEDs from 0 to 8.
@@ -22,7 +22,7 @@ Port C	                         0FF2AH
 
 
 
-	After getting all the address and we know which ports we need to use so we could now write the assembly code in the emulator and connecting the USB from the kit to the computer to download the code to it. 
+After getting all the address and we know which ports we need to use so we could now write the assembly code in the emulator and connecting the USB from the kit to the computer to download the code to it. 
 
 Experimental Results and Discussion:
 After we wrote the code and download it to the kit, we tried to switch the switches one by one and we found that with every time we change the state of the switches the state of the LED’s also chanced and there is the code we used:
