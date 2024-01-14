@@ -19,17 +19,19 @@ Port A	                         0FF28h
 Port B	                         0FF29H
 Port C	                         0FF2AH
 
- 
+ <br>
+ <br>
 <img align="center" alt="exp1" width="500px" style="padding-right:10px;" src="https://github.com/BaraSedih11/MicroprocessorsLab/assets/98843912/e5858b4d-e033-4d06-9f79-696d4d5ffa03" />
+<br>
+<br>
 
+<p> After getting all the address and we know which ports we need to use so we could now write the assembly code in the emulator and connecting the USB from the kit to the computer to download the code to it. </p>
 
+### Experimental Results and Discussion:
+<p> After we wrote the code and download it to the kit, we tried to switch the switches one by one and we found that with every time we change the state of the switches the state of the LED’s also chanced and there is the code we used:</p>
 
-After getting all the address and we know which ports we need to use so we could now write the assembly code in the emulator and connecting the USB from the kit to the computer to download the code to it. 
-
-Experimental Results and Discussion:
-After we wrote the code and download it to the kit, we tried to switch the switches one by one and we found that with every time we change the state of the switches the state of the LED’s also chanced and there is the code we used:
-
-
+<br>
+<br>
 ![image](https://github.com/BaraSedih11/MicroprocessorsLab/assets/98843912/f929ae22-c0b8-423f-b161-9a9c5e8b3c5c)
 
  
