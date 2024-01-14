@@ -18,7 +18,7 @@ Port B	                         0FF29H
 Port C	                         0FF2AH
 
  
-<img align="left" alt="exp1" width="1000px" style="padding-right:10px;" src="https://github.com/BaraSedih11/MicroprocessorsLab/assets/98843912/e5858b4d-e033-4d06-9f79-696d4d5ffa03" />
+<img align="center" alt="exp1" width="500px" style="padding-right:10px;" src="https://github.com/BaraSedih11/MicroprocessorsLab/assets/98843912/e5858b4d-e033-4d06-9f79-696d4d5ffa03" />
 
 
 
