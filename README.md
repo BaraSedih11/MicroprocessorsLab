@@ -32,7 +32,8 @@ Port C	                         0FF2AH
 
 <br>
 <br>
-![image](https://github.com/BaraSedih11/MicroprocessorsLab/assets/98843912/f929ae22-c0b8-423f-b161-9a9c5e8b3c5c)
+
+<img align="center" alt="exp1" width="500px" style="padding-right:10px;" src="https://github.com/BaraSedih11/MicroprocessorsLab/assets/98843912/f929ae22-c0b8-423f-b161-9a9c5e8b3c5c" />
 
  
 
