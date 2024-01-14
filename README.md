@@ -3,7 +3,7 @@
 ## 8086 assembly
 
 ### Abstract:
-	<p>In this experiment we’ve been asked to use the lab kit to implement basic I/O in the MML8086K3 kit using our previous knowledge from microprocessor course. We found that we could use our coding knowledge in assembly “8086 and 8088” practically.</P>
+<p>In this experiment we’ve been asked to use the lab kit to implement basic I/O in the MML8086K3 kit using our previous knowledge from microprocessor course. We found that we could use our coding knowledge in assembly “8086 and 8088” practically.</P>
 
 Introduction and Theory:
 	In the kit we mentioned we have 8 switches (k1-k8) and 8 LED’s (L1-L8). All we need to do is to read the state of the switches from 0 to 8 and display it on the LEDs from 0 to 8.
