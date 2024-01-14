@@ -5,10 +5,12 @@
 ### Abstract:
 <p>In this experiment we’ve been asked to use the lab kit to implement basic I/O in the MML8086K3 kit using our previous knowledge from microprocessor course. We found that we could use our coding knowledge in assembly “8086 and 8088” practically.</P>
 
-Introduction and Theory:
-	In the kit we mentioned we have 8 switches (k1-k8) and 8 LED’s (L1-L8). All we need to do is to read the state of the switches from 0 to 8 and display it on the LEDs from 0 to 8.
-Apparatus/ Procedure:
-We used Programmable Peripheral Interface adapter (8255A) as an in interface for 386 microprocessor which has 24 I/O programable pins divided to three ports A, B and C. Also, it has three different modes 0 for basic I/O, 1 for strobed I/O and 2 for bidirectional bus.
+### Introduction and Theory:
+<p> In the kit we mentioned we have 8 switches (k1-k8) and 8 LED’s (L1-L8). All we need to do is to read the state of the switches from 0 to 8 and display it on the LEDs from 0 to 8. </p>
+
+### Apparatus/ Procedure:
+<p> We used Programmable Peripheral Interface adapter (8255A) as an in interface for 386 microprocessor which has 24 I/O programable pins divided to three ports A, B and C. Also, it has three different modes 0 for basic I/O, 1 for strobed I/O and 2 for bidirectional bus. </p>
+
 For the three ports A, B and C, every port can be set for modes. A for (0,1,2), B for (0,1) and C only for mode 0. In port C we have PC upper (4 bits) and PC lower (4 bits) and both can be for input or output.
 
 Register in 8255A	               Register Address 
